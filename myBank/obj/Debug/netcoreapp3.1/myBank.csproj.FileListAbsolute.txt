@@ -1,0 +1,13 @@
+C:\Users\maria\Desktop\Bank_OODuda\Bank__OO\myBank\bin\Debug\netcoreapp3.1\myBank.exe
+C:\Users\maria\Desktop\Bank_OODuda\Bank__OO\myBank\bin\Debug\netcoreapp3.1\myBank.deps.json
+C:\Users\maria\Desktop\Bank_OODuda\Bank__OO\myBank\bin\Debug\netcoreapp3.1\myBank.runtimeconfig.json
+C:\Users\maria\Desktop\Bank_OODuda\Bank__OO\myBank\bin\Debug\netcoreapp3.1\myBank.runtimeconfig.dev.json
+C:\Users\maria\Desktop\Bank_OODuda\Bank__OO\myBank\bin\Debug\netcoreapp3.1\myBank.dll
+C:\Users\maria\Desktop\Bank_OODuda\Bank__OO\myBank\bin\Debug\netcoreapp3.1\myBank.pdb
+C:\Users\maria\Desktop\Bank_OODuda\Bank__OO\myBank\obj\Debug\netcoreapp3.1\myBank.csprojAssemblyReference.cache
+C:\Users\maria\Desktop\Bank_OODuda\Bank__OO\myBank\obj\Debug\netcoreapp3.1\myBank.AssemblyInfoInputs.cache
+C:\Users\maria\Desktop\Bank_OODuda\Bank__OO\myBank\obj\Debug\netcoreapp3.1\myBank.AssemblyInfo.cs
+C:\Users\maria\Desktop\Bank_OODuda\Bank__OO\myBank\obj\Debug\netcoreapp3.1\myBank.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Bank_OODuda\Bank__OO\myBank\obj\Debug\netcoreapp3.1\myBank.dll
+C:\Users\maria\Desktop\Bank_OODuda\Bank__OO\myBank\obj\Debug\netcoreapp3.1\myBank.pdb
+C:\Users\maria\Desktop\Bank_OODuda\Bank__OO\myBank\obj\Debug\netcoreapp3.1\myBank.genruntimeconfig.cache
